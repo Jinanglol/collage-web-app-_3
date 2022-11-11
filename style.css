@@ -1,0 +1,48 @@
+body{
+    background-color: rgba(0, 115, 255, 0.37);
+}
+h1{
+    font-family: Badoni MT Poster Compressed;
+    font-style: italic;
+    font-weight: bold;
+    color:antiquewhite;
+}
+
+h4{
+    font-family: Algerian;
+    color: royalblue;
+}
+
+#camera{
+    width: 500px;
+    height: 400px;
+    border:15px solid gray;
+}
+
+img{
+    width: 37%;
+    border-radius: 4px;
+    padding: 20px;
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+}
+
+img:hover{
+    border-radius: 140px;
+}
+
+.column{
+    display: inline;
+    padding: 50px;
+}
+.copy_right_footer{
+    position: fixed;
+    color: #6c757d;
+    bottom: 0;
+    width: 100%;
+    background-color: #00ff6e;
+    line-height: 2;
+    text-align: center;
+    color:cornsilk;
+    font-family: Blackadder ITC;
+    font-size: 134%;
+ }
